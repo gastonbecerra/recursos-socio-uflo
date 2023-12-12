@@ -35,8 +35,10 @@ Todos los encuentros: https://bit.ly/conversatorios-uflo
 
 ## Módulos y clases 
 
+Estos son algunos de los contenidos y temas de algunas materias de la carrera. Por cuestiones de privacidad, sólo listamos contenidos asincrónicos (y no las clases sincrónicas). 
+
 - **Módulo**: **"El análisis de datos y la Sociología"** <br />
-**Asignatura**: *Análisis de datos*<br />
+**Asignatura**: *Análisis de datos* - [Programa de la materia](https://docs.google.com/document/d/1A_hDY1bkpvRAaeU5WOAqpQlbtdAxzQOV/edit) <br />
 **Tramo**: Habilidades digitales - Estudiantes de 1er año <br />
 En este módulo buscamos fomentar una mirada crítica de los desarrollos tecnológicos vinculados con el big data y las ciencias de datos, y su relación con la sociología.
 
@@ -46,7 +48,7 @@ En este módulo buscamos fomentar una mirada crítica de los desarrollos tecnol�
 
 
 - **Módulo**: **"La ciencia como comunicación"** <br />
-**Asignatura**: *Taller de Herramientas de Documentación y Colaboración*<br />
+**Asignatura**: *Taller de Herramientas de Documentación y Colaboración* - [Programa de la materia](https://docs.google.com/document/d/1xaybSimckdOUN9DuUmXO6J3ds_iTP46x/edit?usp=sharing&ouid=110060493895495443798&rtpof=true&sd=true) <br />
 **Tramo**: Metodológico - Estudiantes de 1er año <br />
 En este módulo exploramos una manera de observar la ciencia como un sistema de comunicación (y no como una forma de pensamiento), y cuáles son sus canales y convenciones.
 
