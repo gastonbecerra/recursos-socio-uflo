@@ -32,5 +32,16 @@ En nuestros conversatorios buscamos charlamos con colegas sobre sus experiencias
 
 Todos los encuentros: https://bit.ly/conversatorios-uflo
 
-## Módulos 
+## Módulos y clases 
+
+- **Módulo "El análisis de datos y la Sociología" (Asignatura *Análisis de datos*)**: en este módulo buscamos fomentar una mirada crítica de los desarrollos tecnológicos vinculados con el big data y las ciencias de datos, y su relación con la sociología
+    - **Tema 1: Ciencias de datos y sociología** - Evaluamos la "crisis metodológica" de la sociología: [Exposición en video](https://www.youtube.com/watch?v=RT94SEVf20k) y [material de lectura: "Los desafíos del big data para la formación sociológica"](https://jornadas.virtual.uflo.edu.ar/?p=2410)
+    - **Tema 2: Problemas éticos en las ciencias de datos** - Introducimos una mirada sociológica de la ética de la investigación: [Exposición en video](https://youtu.be/V-h_h5DOQCg)
+    - **Tema 3: Epistemología de las ciencias de datos** - Exponemos y discutimos  el paper R. Kitchin [Exposición en video](https://youtu.be/VVYCMaT9xgQ) y [material de lectura: "Big Data, new epistemologies and paradigm shifts"](http://journals.sagepub.com/doi/10.1177/2053951714528481)
+
+
+- **Módulo "La ciencia como comunicación" (Asignatura *Taller de Herramientas de Documentación y Colaboración*)**: en este módulo buscamos fomentar una mirada crítica de los desarrollos tecnológicos vinculados con el big data y las ciencias de datos, y su relación con la sociología
+    - **Tema 1: Ciencias de datos y sociología** - Evaluamos la "crisis metodológica" de la sociología: [Exposición en video](https://www.youtube.com/watch?v=RT94SEVf20k) y [material de lectura: "Los desafíos del big data para la formación sociológica"](https://jornadas.virtual.uflo.edu.ar/?p=2410)
+    - **Tema 2: Problemas éticos en las ciencias de datos** - Introducimos una mirada sociológica de la ética de la investigación: [Exposición en video](https://youtu.be/V-h_h5DOQCg)
+    - **Tema 3: Epistemología de las ciencias de datos** - Exponemos y discutimos  el paper R. Kitchin [Exposición en video](https://youtu.be/VVYCMaT9xgQ) y [material de lectura: "Big Data, new epistemologies and paradigm shifts"](http://journals.sagepub.com/doi/10.1177/2053951714528481)
 
