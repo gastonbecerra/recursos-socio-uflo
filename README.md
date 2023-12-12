@@ -2,6 +2,8 @@
 
 Un listado de recursos y materiales didácticos que elaboramos en la carrera de [Sociología de la Universidad de Flores](https://www.uflo.edu.ar/ver-info-sobre-406-licenciatura-en-sociologia.php) (Argentina).
 
+Cualquier consulta o comentario, nos podes escribir a *sociologia (arroba) uflouniversidad.edu.ar*
+
 ## Podcasts
 
 El podcast **(Re) Pensar la Sociología desde el hoy** es una serie de entrevistas a profesore/as e investigadore/as de Argentina acerca de algún/a referente de la teoría sociológica. 
