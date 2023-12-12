@@ -29,7 +29,7 @@ En nuestros conversatorios buscamos charlamos con colegas sobre sus experiencias
 
 - [El campo laboral de la Sociología](https://www.youtube.com/watch?v=pvG38Arm4rg&list=PLf1wJeC17bII6xCrew2vVjGOZV2ShisVy&index=16) - Charlamos con colegas que trabajan en gestión pública, consultoría, evaluación de políticas, e investigación de mercado. (Noviembre/2021)
 
-- [Panel on Technological Challenges from a Social Sciences Perspective](https://www.youtube.com/watch?v=BgjpTQ4Dx7c&list=PLf1wJeC17bII6xCrew2vVjGOZV2ShisVy&index=8) - Panel en el *Communication In The Age Of Technological Challenges: Research Perspectives across Disciplines* organizado con la Universidad de Varsovia (en inglés) (Noviembre/2021)
+- [Panel on Technological Challenges from a Social Sciences Perspective](https://www.youtube.com/watch?v=BgjpTQ4Dx7c&list=PLf1wJeC17bII6xCrew2vVjGOZV2ShisVy&index=8) - Panel en el *Communication In The Age Of Technological Challenges: Research Perspectives across Disciplines* organizado con la Universidad de Varsovia (en inglés) (Mayo/2023)
 
 Todos los encuentros: https://bit.ly/conversatorios-uflo
 
