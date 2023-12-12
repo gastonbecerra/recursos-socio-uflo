@@ -65,7 +65,7 @@ Aquí compilamos algunas guías de trabajo y tutoriales que elaboramos para dist
 
 - [Tutorial de análisis bibliométrico](https://rpubs.com/gastonbecerra/bibliometricos-R) - Un tutorial en **lenguaje R** para introducirse al análisis bibliométrico. Lo usamos como ejercicio integrador en la asignatura *Análisis de datos*.
 
-- [Guía con diferencias y similitudes entre lenguaje Clore y R](https://nextjournal.com/a/RYA1HcdZkiFBJdNKYuQx7?token=CrpoWYpyyJFs2CPcpTeSSW) - Una guía para políglotas interesados en ver las diferencias entre **lenguaje de programación lógica Clojure** y el **lenguaje de programación estadística R**. 
+- [Guía con diferencias y similitudes entre lenguaje Clore y R](https://nextjournal.com/a/RYA1HcdZkiFBJdNKYuQx7?token=CrpoWYpyyJFs2CPcpTeSSW) - Una guía para políglotas interesados en ver las diferencias entre **lenguaje de programación lógica Clojure** y el **lenguaje de programación estadística R**. Lo usamos como material para vincular las asignaturas *Análisis de datos* y *Programación*. 
 
 ## Desarrollos y herramientas
 
