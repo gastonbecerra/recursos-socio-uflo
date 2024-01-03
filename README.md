@@ -57,6 +57,16 @@ En este módulo exploramos una manera de observar la ciencia como un sistema de 
     - Tema 3: ¿Cómo leer artículos y ponencias? - Nos introducimos a dos géneros de la comunicación científica y leemos 2 ejemplos: [Exposición en video](https://youtu.be/Dmk2U8DgnEc), [Ejemplo 1: "Hacia una exploración de las representaciones sociales en torno al big data"](https://drive.google.com/file/d/1bOmgIK8QWZcB3Dg-4L83W2qICMguMn4z/view?usp=sharing) y [Ejemplo 2: "Adieu à Bourdieu? Asimetrías, límites y paradojas en la noción de habitus. Convergencia Revista de Ciencias Sociales"](https://drive.google.com/file/d/1YWpjhLuEuYzdmHz1RNED0_LvLVzo5u8A/view?usp=sharing)
     - Tema 4: Gestores de bibliografía - Mostramos el software Mendeley para manejar bibliografía y citado: [Exposición en video](https://youtu.be/n1UYMaLxSBQ)
 
+
+- **Módulo**: **"Camino hacia la elección del diseño de investigación"** <br />
+**Asignatura**: *Taller de Investigación I* - [Programa de la materia](https://docs.google.com/document/d/1WjJsNzH5UqCfeqlRLufFBwPl1OsRcxc9/edit) <br />
+**Tramo**: Metodológico - Estudiantes de 1er año <br />
+En este módulo nos introducimos al proceso de investigación, a través de sus diseños más comunes, la construcción del marco teórico y una guía rápida para escribir objetivos.
+
+    - Tema 1: Idea, diseños y enfoques - Algunas nociones previas a dar el primer paso de investigación [Exposición en video](https://youtu.be/)
+    - Tema 2: El marco teórico - Nuestros anteojos sociológicos para hacer preguntas [Exposición en video](https://youtu.be/) + Un ejemplo: la teoría de las representaciones sociales [Exposición en video](https://youtu.be/XVN3shrWgA4)
+    - Tema 3: Objetivos de investigación - Una guía rápida para leer/escribir un objetivo de investigación [Exposición en video](https://youtu.be/) + [Material de lectura: "Consejos y advertencias para la formación de investigadores en ciencias sociales (C.Wainerman)" ](http://www.catalinawainerman.com.ar/pdf/Consejos_y_advertencias_para_la_form_de_investigadores.pdf)
+
 ## Guías didácticas y tutoriales
 
 Aquí compilamos algunas guías de trabajo y tutoriales que elaboramos para distintas materias, cursos y talleres. 
@@ -65,7 +75,7 @@ Aquí compilamos algunas guías de trabajo y tutoriales que elaboramos para dist
 
 - [Tutorial de análisis bibliométrico](https://rpubs.com/gastonbecerra/bibliometricos-R) - Un tutorial en **lenguaje R** para introducirse al análisis bibliométrico. Lo usamos como ejercicio integrador en la asignatura *Análisis de datos*.
 
-- [Guía con diferencias y similitudes entre lenguaje Clore y R](https://nextjournal.com/a/RYA1HcdZkiFBJdNKYuQx7?token=CrpoWYpyyJFs2CPcpTeSSW) - Una guía para políglotas interesados en ver las diferencias entre **lenguaje de programación lógica Clojure** y el **lenguaje de programación estadística R**. Lo usamos como material para vincular las asignaturas *Análisis de datos* y *Programación*. 
+- [Guía con diferencias y similitudes entre lenguaje Clojure y R](https://nextjournal.com/a/RYA1HcdZkiFBJdNKYuQx7?token=CrpoWYpyyJFs2CPcpTeSSW) - Una guía para políglotas interesados en ver las diferencias entre **lenguaje de programación lógica Clojure** y el **lenguaje de programación estadística R**. Lo usamos como material para vincular las asignaturas *Análisis de datos* y *Programación*. 
 
 ## Desarrollos y herramientas
 
