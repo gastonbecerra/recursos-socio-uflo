@@ -2,6 +2,10 @@
 
 Un listado de algunos recursos y materiales didácticos que elaboramos en la carrera de [Sociología de la Universidad de Flores](https://www.uflo.edu.ar/ver-info-sobre-406-licenciatura-en-sociologia.php) (Argentina).
 
+Nuestra carrera tiene una orientación computacional que busca, entre otros objetivos, integrar saberes digitales y nuevas tecnologías con una mirada social crítica y epistemológicamente fundada. 
+
+![UFLO diseño](./socio%20computacional%20en%20relassc%20(1).jpg)
+
 Cualquier consulta o comentario, nos podes escribir a *sociologia (arroba) uflouniversidad.edu.ar*
 
 ## Podcasts
@@ -63,8 +67,8 @@ En este módulo exploramos una manera de observar la ciencia como un sistema de 
 **Tramo**: Metodológico - Estudiantes de 1er año <br />
 En este módulo nos introducimos al proceso de investigación, a través de sus diseños más comunes, la construcción del marco teórico y una guía rápida para escribir objetivos.
 
-    - Tema 1: Idea, diseños y enfoques - Algunas nociones previas a dar el primer paso de investigación [Exposición en video](https://youtu.be/)
-    - Tema 2: El marco teórico - Nuestros anteojos sociológicos para hacer preguntas [Exposición en video](https://youtu.be/) + Un ejemplo: la teoría de las representaciones sociales [Exposición en video](https://youtu.be/XVN3shrWgA4)
+    - Tema 1: Idea, diseños y enfoques - Algunas nociones previas a dar el primer paso de investigación [Exposición en video](https://youtu.be/N5MrhOCmgPU)
+    - Tema 2: El marco teórico - Nuestros anteojos sociológicos para hacer preguntas [Exposición en video parte 1](https://youtu.be/8Zp6wNq7MJI) + [Exposición en video parte 2](https://youtu.be/nTdm6yzuLRw) + Un ejemplo: la teoría de las representaciones sociales [Exposición en video](https://youtu.be/XVN3shrWgA4)
     - Tema 3: Objetivos de investigación - Una guía rápida para leer/escribir un objetivo de investigación [Exposición en video](https://youtu.be/) + [Material de lectura: "Consejos y advertencias para la formación de investigadores en ciencias sociales (C.Wainerman)" ](http://www.catalinawainerman.com.ar/pdf/Consejos_y_advertencias_para_la_form_de_investigadores.pdf)
 
 ## Guías didácticas y tutoriales
@@ -79,6 +83,6 @@ Aquí compilamos algunas guías de trabajo y tutoriales que elaboramos para dist
 
 ## Desarrollos y herramientas
 
-Nuestra carrera tiene una orientación computacional que busca, entre otros objetivos, generar herramientas de código abierto para asistir a distintos momentos de la investigación social. Algunos de estos desarrollos son:
+Generamos herramientas de código abierto para asistir a distintos momentos de la investigación social. Algunos de estos desarrollos son:
 
 - [minCaqdasR](https://github.com/gastonbecerra/mincaqdasr)  **(en desarrollo!)**  - Herramienta para análisis cualitativo (CAQDAS), diseñada para asistir en la tarea de codificar o anotar un corpus de documentos o fragmentos de los mismos, a través de una interfaz gráfica (GUI) que corre en cualquier navegador que tenga JavaScript habilitado, y que se puede vincular con R.
