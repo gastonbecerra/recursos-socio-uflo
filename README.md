@@ -8,6 +8,12 @@ Nuestra carrera tiene una orientación computacional que busca, entre otros obje
 
 Cualquier consulta o comentario, nos podes escribir a *sociologia (arroba) uflouniversidad.edu.ar*
 
+## Actividades abiertas
+
+- **Charlas Sociológicas** - Febrero y marzo de 2024 - un espacio para reflexionar juntos/as sobre las dinámicas sociales. 👩‍🏫 Ciclo gratuito, con inscripción previa y cupos limitados 💻 Actividad virtual (por Zoom) 🗓️ Seis clases/encuentros semanales en febrero/marzo 📍 Participá en sesiones individuales o en todas 📚 No se requieren conocimientos previos. ¡Aportá desde tu experiencia! <br/>
+Más info e inscripciones: https://bit.ly/charlas-socio-uflo
+
+
 ## Podcasts
 
 El podcast **(Re) Pensar la Sociología desde el hoy** es una serie de entrevistas a profesore/as e investigadore/as de Argentina acerca de algún/a referente de la teoría sociológica. 
@@ -81,8 +87,12 @@ Aquí compilamos algunas guías de trabajo y tutoriales que elaboramos para dist
 
 - [Guía con diferencias y similitudes entre lenguaje Clojure y R](https://nextjournal.com/a/RYA1HcdZkiFBJdNKYuQx7?token=CrpoWYpyyJFs2CPcpTeSSW) - Una guía para políglotas interesados en ver las diferencias entre **lenguaje de programación lógica Clojure** y el **lenguaje de programación estadística R**. Lo usamos como material para vincular las asignaturas *Análisis de datos* y *Programación*. 
 
+- [Tutorial completo de arqueo bibliográfico en lenguaje Clojure](https://www.youtube.com/playlist?list=PLUxsdd9CjsoGwvfLkoTuYnSDB3j0L07Xw) - Un curso completo para armar una aplicación en **lenguaje de programación lógica Clojure** para obtener información de la API de Semantic Scholar. Incluye introducción teórica y práctica con GitPod, Codespace, y VS-Code.
+
 ## Desarrollos y herramientas
 
 Generamos herramientas de código abierto para asistir a distintos momentos de la investigación social. Algunos de estos desarrollos son:
 
-- [minCaqdasR](https://github.com/gastonbecerra/mincaqdasr)  **(en desarrollo!)**  - Herramienta para análisis cualitativo (CAQDAS), diseñada para asistir en la tarea de codificar o anotar un corpus de documentos o fragmentos de los mismos, a través de una interfaz gráfica (GUI) que corre en cualquier navegador que tenga JavaScript habilitado, y que se puede vincular con R.
+- [minCaqdasR](https://github.com/gastonbecerra/mincaqdasr) **(en desarrollo!)**  - Herramienta para análisis cualitativo (CAQDAS), diseñada para asistir en la tarea de codificar o anotar un corpus de documentos o fragmentos de los mismos, a través de una interfaz gráfica (GUI) que corre en cualquier navegador que tenga JavaScript habilitado, y que se puede vincular con R.
+
+- [ojsr](https://cran.r-project.org/web/packages/ojsr/index.html) - Package de R para navegar y hacer webscraping de revistas electrónicas editadas con Open Journal System. La documentación está en inglés... pero acá hay un [artículo en castellano](https://dspaceapi.uai.edu.ar/server/api/core/bitstreams/5b8cc797-032a-4611-ab00-a5ae5acce1d8/content).
