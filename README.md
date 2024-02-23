@@ -13,6 +13,7 @@ Cualquier consulta o comentario, nos podes escribir a *sociologia (arroba) uflou
 - **Charlas Sociológicas** - Febrero y marzo de 2024 - un espacio para reflexionar juntos/as sobre las dinámicas sociales. 👩‍🏫 Ciclo gratuito, con inscripción previa y cupos limitados 💻 Actividad virtual (por Zoom) 🗓️ Seis clases/encuentros semanales en febrero/marzo 📍 Participá en sesiones individuales o en todas 📚 No se requieren conocimientos previos. ¡Aportá desde tu experiencia! <br/>
 Más info e inscripciones: https://bit.ly/charlas-socio-uflo
 
+- **1eras Jornadas de Sociología UFLO Universidad** - Junio de 2024 - Modalidad virtual / Gratuito para ponentes y asistentes - Invitamos a estudiantes, docentes, investigadores y profesionales de la comunidad sociológica local e internacional a participar en las Jornadas. El objetivo es crear un espacio de intercambio, discusión y aprendizaje mutuo, ameno y plural. Circulares y más info: [Circulares y lista de difusión](https://bit.ly/circular-socio-uflo)
 
 ## Podcasts
 
