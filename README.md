@@ -27,6 +27,8 @@ El podcast **(Re) Pensar la Sociología desde el hoy** es una serie de entrevist
 
 - [Ep. 4 Michel Foucault](https://www.youtube.com/watch?v=xTNUNDvAPhI) - Entrevista a la Dra. Senda Sferco
 
+- [Ep. 5 Niklas Luhmann](https://www.youtube.com/watch?v=AKgqvt_59SQ) - Entrevista al Dr. Sergio Pignuoli Ocampo
+
 Playlist completa: https://bit.ly/podcast-socio-uflo
 
 Estos materiales corresponden a las asignaturas *Teoría Sociológica Clásica* y *Teoría Sociológica Contemporánea*. Para una bitácora y reflexión, podés consultar la ponencia:
